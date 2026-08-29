@@ -3,6 +3,8 @@ from groq import Groq
 from mem0 import Memory
 from dotenv import load_dotenv
 from config import config
+import warnings
+warnings.filterwarnings("ignore")
 
 load_dotenv()
 
