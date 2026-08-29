@@ -1,0 +1,6 @@
+groq
+mem0ai
+sentence-transformers
+python-dotenv
+qdrant-client
+google-genai
