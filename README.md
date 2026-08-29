@@ -1,4 +1,4 @@
-# mem0-chat-agent
+# rememb0
 
 A conversational AI agent with persistent long-term memory, built using [mem0](https://mem0.ai) and [Qdrant](https://qdrant.tech). It remembers facts about the user across sessions and holds coherent multi-turn conversations. Powered entirely by free-tier APIs and local embeddings.
 
